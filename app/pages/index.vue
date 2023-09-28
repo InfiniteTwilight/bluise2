@@ -99,3 +99,15 @@ export default class Home extends Vue {
   }
 }
 </script>
+
+
+<!-- Yandex.RTB R-A-3154841-1 -->
+<div id="yandex_rtb_R-A-3154841-1"></div>
+<script>
+window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-3154841-1",
+		"renderTo": "yandex_rtb_R-A-3154841-1"
+	})
+})
+</script>
