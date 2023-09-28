@@ -100,6 +100,9 @@ export default class Home extends Vue {
 }
 </script>
 
+<!-- Yandex.RTB -->
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
 
 <!-- Yandex.RTB R-A-3154841-1 -->
 <div id="yandex_rtb_R-A-3154841-1"></div>
